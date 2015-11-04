@@ -1,0 +1,32 @@
+[
+    {
+        "address": "135 Rathian Way",
+        "title": "Tower Heights",
+        "client": "Grand Pacific Resorts"
+    },
+    {
+        "address": "1515 Prairie Drive",
+        "title": "Boulder House",
+        "client": "Rich Franklin"
+    },
+    {
+        "address": "9639 Parking Place",
+        "title": "Marble Room",
+        "client": "Indian Hills Camp"
+    },
+    {
+        "address": "1873 Jaggi Street",
+        "title": "Hillburn Residence",
+        "client": "Pat Hillburn"
+    },
+    {
+        "address": "15435 Lawson Valley Road",
+        "title": "Brown House",
+        "client": "Ronald Smith"
+    },
+    {
+        "address": "1748 San Diego Avenue",
+        "title": "Soft Stack Factory",
+        "client": "Harold Gottschalk"
+    }
+]

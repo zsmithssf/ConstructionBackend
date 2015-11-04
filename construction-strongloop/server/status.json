@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Unresolved"
+    },
+    {
+        "name": "Seen"
+    },
+    {
+        "name": "Pending"
+    },
+    {
+        "name": "Resolved"
+    }
+]

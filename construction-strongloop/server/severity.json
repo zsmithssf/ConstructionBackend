@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Urgent"
+    },
+    {
+        "name": "Moderate"
+    },
+    {
+        "name": "Caution"
+    },
+    {
+        "name": "Informational"
+    }
+]
